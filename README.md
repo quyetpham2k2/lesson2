@@ -36,15 +36,6 @@
 -       Bạn có thể sử dụng nhiều mảng và chỉ định thứ tự và kiểu sắp xếp riêng cho từng mảng.
 
 # Tóm tắt các hàm hiển thị:
--      Hàm	             Mô tả	                                  Trả về
--       echo	          In ra chuỗi	                              Không trả về
--       print	          In ra chuỗi và trả về 1	                  1
--       printf	          In ra chuỗi đã định dạng	                  Không trả về
--       sprintf	       Tạo chuỗi đã định dạng và trả về	         Chuỗi
--       var_dump	       Hiển thị chi tiết kiểu dữ liệu	            Không trả về
--       var_export	    Hiển thị mã PHP có thể thực thi lại	      Không trả về
--       print_r	       Hiển thị mảng hoặc đối tượng	               Không trả về
--       exit / die	    Dừng chương trình và hiển thị thông báo	   Không trả về
 
 | Hàm            | Mô tả                                        | Trả về                |
 |----------------|----------------------------------------------|-----------------------|
