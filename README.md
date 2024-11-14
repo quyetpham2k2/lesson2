@@ -46,6 +46,17 @@
 -       print_r	       Hiển thị mảng hoặc đối tượng	               Không trả về
 -       exit / die	    Dừng chương trình và hiển thị thông báo	   Không trả về
 
+| Hàm            | Mô tả                                        | Trả về                |
+|----------------|----------------------------------------------|-----------------------|
+| echo           | In ra chuỗi                                  | Không trả về           |
+| print          | In ra chuỗi và trả về 1                      | 1                     |
+| printf         | In ra chuỗi đã định dạng                     | Không trả về           |
+| sprintf        | Tạo chuỗi đã định dạng và trả về             | Chuỗi                 |
+| var_dump       | Hiển thị chi tiết kiểu dữ liệu               | Không trả về           |
+| var_export     | Hiển thị mã PHP có thể thực thi lại          | Không trả về           |
+| print_r        | Hiển thị mảng hoặc đối tượng                 | Không trả về           |
+| exit / die     | Dừng chương trình và hiển thị thông báo     | Không trả về           |
+
 - Khi nào sử dụng các hàm này?
     echo và print: Thường dùng để hiển thị chuỗi đơn giản trong các trang web PHP.
     printf và sprintf: Khi cần in hoặc tạo chuỗi với định dạng đặc biệt.
